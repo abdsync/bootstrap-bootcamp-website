@@ -1,1 +1,1 @@
-# bootstrap-bootcamp-website
+A responsive “Frontend Bootcamp” website built with Bootstrap 5 core building blocks (grid, navbar, cards, accordion, modal, forms, and list groups), with a small amount of custom CSS for additional styling.
