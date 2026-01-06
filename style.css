@@ -1,0 +1,11 @@
+body::before {
+    display: block;
+    content: '';
+    height: 72px;   
+}
+ /*::before creates a ghost or virtual element that doesn't exist in the HTML DOM */
+@media(min-width: 768px) {
+    .news-input {
+    width: 50%;
+}
+}
